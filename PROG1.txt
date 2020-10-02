@@ -1,0 +1,10 @@
+amigo, ga - https://dle.rae.es/amigo
+musical - https://dle.rae.es/musical?m=form
+nave - https://dle.rae.es/nave?m=form
+gemelo - https://dle.rae.es/gemelo?m=form
+paisaje - https://dle.rae.es/paisaje?m=form
+poción - https://dle.rae.es/poci%C3%B3n
+orbe - https://dle.rae.es/orbe?m=form
+programar - https://dle.rae.es/programar?m=form
+centro - https://dle.rae.es/centro?m=form
+rayo - https://dle.rae.es/rayo?m=form
